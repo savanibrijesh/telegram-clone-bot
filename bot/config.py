@@ -3,14 +3,14 @@ import json
 from distutils.util import strtobool as stb
 
 # --------------------------------------
-BOT_TOKEN = "2132477636:AAFpUnN1xHSayTorpmyjooUpkSyBbzO0HPE"
-GDRIVE_FOLDER_ID = "1VEJqOkP5ap_YNnbCZjgcrrsWvK-hB6uH"
+BOT_TOKEN = "5519365166:AAG78QhPRBRwK73aAZpfd9e0W5-HHngL_38"
+GDRIVE_FOLDER_ID = "0ABMu_69h0NXWUk9PVA"
 # Default folder id.
-OWNER_ID = 714598966
+OWNER_ID = 5423692247
 # Example: OWNER_ID = 619418070
 AUTHORISED_USERS = []
 # Example: AUTHORISED_USERS = [63055333, 100483029, -1003943959]
-INDEX_URL = ""
+INDEX_URL = "https://flix-app.cybersquads.workers.dev/0:"
 IS_TEAM_DRIVE = True
 USE_SERVICE_ACCOUNTS = True
 # --------------------------------------
